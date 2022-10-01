@@ -1,7 +1,7 @@
 /*  10'dan küçük farklı sayılar üreten kod*/
 
 
-public class Main
+public class Main 
 {
 	public static void main(String[] args) {
         int a[] = {0, 0, 0, 0, 0, 0};
