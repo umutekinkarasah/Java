@@ -4,7 +4,7 @@
 public class Main 
 {
 	public static void main(String[] args) {
-        int a[] = {0, 0, 0, 0, 0, 0};
+        int a[] = {0, 0, 0, 0, 0, 0}; 
 	    java.util.Random generator = new java.util.Random();
 	    int i, size, n, count, flag;
 	    size = 6;
